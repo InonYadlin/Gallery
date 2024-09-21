@@ -1,28 +1,16 @@
-========================================================================
-    CONSOLE APPLICATION : Gallery Project Overview
-========================================================================
+Gallery Project
+Overview
+    This is a simple Gallery Management System built using C++ for the application logic and SQL for managing the underlying database. 
+    The project allows users to add, view, update, and delete information about images or artwork in the gallery. 
+    It includes basic CRUD (Create, Read, Update, Delete) operations that interact with an SQL database to store and retrieve gallery data.
 
-magshimim has created this Gallery application for you.
+Features
+    1. Add New Artworks: Users can add new pieces of artwork or images with relevant details like title, artist, and year.
+    2. View Gallery: Users can view a list of all artworks stored in the gallery database.
+    3. Update Art Information: Users can modify details of existing artworks in the gallery.
+    4. Delete Artworks: Users can remove artworks from the database.
+    5. SQL Backend: All gallery data is stored in an SQL database for persistence.
 
-This file contains a summary of what you will find in each of the files that
-make up your Gallery application.
-
-
-Gallery.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-Gallery.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-Gallery.cpp
-    This is the main application source file.
-
-
-/////////////////////////////////////////////////////////////////////////////
+Technologies Used
+    1. C++: The primary language for the application's logic and operations.
+    2. SQL: Used for database management
